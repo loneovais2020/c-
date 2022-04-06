@@ -1,3 +1,6 @@
+//occurence counter of array elements
+//Ovais Tariq Lone
+//06/04/2022
 #include <stdio.h>
 void main(){
    int numOfElements;
